@@ -1,0 +1,276 @@
+# Webalizer V2.23-05 Incremental Data - 10/18/2014 23:01:40
+2014 10 18 23 1 40
+197 76 15 19 5 12 1961070 143 18 0 0 0
+15 1 126 18 18
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+197 76 1961070 15 143 18 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 141 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+34 17 613880 9 0 0
+0 0 0 0 0 0
+20 14 16676 20 0 0
+126 45 1327457 97 0 0
+6 0 1121 6 0 0
+3 0 588 3 0 0
+4 0 784 4 0 0
+0 0 0 0 0 0
+2 0 282 2 0 0
+0 0 0 0 0 0
+1 0 141 1 0 0
+0
+0
+0
+76
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+59
+0
+0
+0
+0
+0
+1
+61
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/public/js/app.js
+0 2 0 1041 0 0 0 0
+/public/app.html
+0 4 0 699 1 0 0 0
+/public/bower_components/lodash/dist/lodash.js
+0 2 0 42294 0 0 0 0
+/public/js/random_call_to_action.js
+0 1 0 1435 0 0 0 0
+/public/js/story_page.js
+0 2 0 821 0 0 0 0
+/public/css/style.css
+0 2 0 445 0 0 0 0
+/public/templates/story_page.html
+0 1 0 1208 0 0 0 0
+/public/bower_components/angular/angular.js
+0 2 0 230139 0 0 0 0
+/public/bower_components/bootstrap/dist/css/bootstrap.css
+0 3 0 19524 0 0 0 0
+/public/bower_components/angular-route/angular-route.js
+0 2 0 9248 0 0 0 0
+/SyqbHLf.jpg
+1 25 0 1259285 0 0 0 0
+/public/css/clean-blog.min.css
+0 1 0 0 0 0 0 0
+/public/bower_components/restangular/dist/restangular.js
+0 2 0 9707 0 0 0 0
+/
+0 20 0 15917 7 2 0 0
+/public/css/clean-blog.css
+0 2 0 2089 0 0 0 0
+/public/bower_components/jquery/dist/jquery.js
+0 2 0 73332 0 0 0 0
+/public/js/home.js
+0 1 0 0 0 0 0 0
+/canvas.html
+0 60 0 61549 9 1 0 0
+/public/bower_components/bootstrap/dist/css/bootstrap.css.map
+0 1 0 220790 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+31.13.110.116
+0 2 2 3211 1 1413650062 0 0
+/
+31.13.110.123
+0 1 1 1374 1 1413647053 0 0
+/canvas.html
+109.66.96.91
+0 1 0 196 1 1413659222 0 0
+/
+193.37.128.83
+0 23 3 258687 1 1413651049 0 0
+-
+37.26.146.193
+0 1 0 141 1 1413652117 0 0
+/
+146.185.56.206
+0 156 67 1691241 3 1413654104 0 0
+/canvas.html
+77.126.45.194
+0 3 0 588 1 1413660877 0 0
+/canvas.html
+95.35.50.39
+0 2 0 392 1 1413658501 0 0
+/canvas.html
+93.142.230.192
+0 1 0 141 1 1413628632 0 0
+-
+87.68.34.195
+0 2 0 282 2 1413673300 0 0
+/
+37.142.215.44
+0 1 0 196 1 1413658603 0 0
+/canvas.html
+173.252.100.117
+0 1 0 141 1 1413668374 0 0
+/
+46.19.85.175
+0 1 1 1553 1 1413649327 0 0
+/canvas.html
+173.252.100.118
+0 1 1 1553 1 1413649023 0 0
+/canvas.html
+31.13.110.120
+0 1 1 1374 1 1413647029 0 0
+/canvas.html
+# End Of Table - sites (monthly)
+# -sites- (daily)
+31.13.110.116
+0 2 2 3211 1 1413650062 0 0
+/
+31.13.110.123
+0 1 1 1374 1 1413647053 0 0
+/canvas.html
+109.66.96.91
+0 1 0 196 1 1413659222 0 0
+/
+193.37.128.83
+0 23 3 258687 1 1413651049 0 0
+-
+37.26.146.193
+0 1 0 141 1 1413652117 0 0
+/
+146.185.56.206
+0 156 67 1691241 3 1413654104 0 0
+/canvas.html
+77.126.45.194
+0 3 0 588 1 1413660877 0 0
+/canvas.html
+95.35.50.39
+0 2 0 392 1 1413658501 0 0
+/canvas.html
+93.142.230.192
+0 1 0 141 1 1413628632 0 0
+-
+87.68.34.195
+0 2 0 282 2 1413673300 0 0
+/
+37.142.215.44
+0 1 0 196 1 1413658603 0 0
+/canvas.html
+173.252.100.117
+0 1 0 141 1 1413668374 0 0
+/
+46.19.85.175
+0 1 1 1553 1 1413649327 0 0
+/canvas.html
+173.252.100.118
+0 1 1 1553 1 1413649023 0 0
+/canvas.html
+31.13.110.120
+0 1 1 1374 1 1413647029 0 0
+/canvas.html
+# End Of Table - sites (daily)
+# -referrers- 
+http://streetshackathon.devtroopers.com/
+1 18
+https://www.facebook.com/
+0 28
+http://streetshackathon.devtroopers.com/canvas.html
+1 58
+- (Direct Request)
+0 72
+http://streetshackathon.devtroopers.com/public/app.html
+1 21
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+0 21
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Sa
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; Nexus 4 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.102 Mobile S
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2191.0 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 4.4.99; Build/LPV79) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.102 Mobile Safari/53
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2179.0 Safari/537.36
+0 126
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+0 27
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
